@@ -1,0 +1,21 @@
+dataset_name,dataset_year,task_type,sample_id,input_text,reference_output
+MultiHopQA,2025,reasoning,0,"Tam Lin is a character in a legendary ballad originating from Norfolk, it's also associated with the Glasgow Reel, a folk dance type, as well as the accompanying dance tune type, is called?",Reel
+MultiHopQA,2025,reasoning,1,The tap dancer who served as one of the hosts of the 25th International Emmy Awards was born in what year?,1973
+MultiHopQA,2025,reasoning,2,The 37th season of the VCU Rams men's basketball team was headed by a coach that played for what university?,Duke University
+MultiHopQA,2025,reasoning,3,"Yasser Al-Shahrani of Al-Hilal, and Barcelona's Lionel Messi, both appear on the cover of the FIFA 16 game that's sold in which global region?",Middle East
+MultiHopQA,2025,reasoning,4,Brian Ralston scored the 20th Century Fox inspirational sports film Crooked Arrows starring this American actor and former fashion model who grew up in what state?,Iowa
+MultiHopQA,2025,reasoning,5,"The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You is a 1998 book written by John C. Maxwell, professional basketball player Harrison Barnes read and spoke positively of the book, Harrison Bryce Jordan Barnes (born May 30, 1992) is an American professional basketball player for the which city's team, of the National Basketball Association (NBA)?",Dallas Mavericks
+MultiHopQA,2025,reasoning,6,"Which American actor, who is best known for playing Dan Conner, stars in the 2016 American science fiction psychological thriller film 10 Cloverfield Lane?",John Goodman
+MultiHopQA,2025,reasoning,7,"Which games were held in Seoul, South Korea the year Eriko Asai won a gold medal?",1986 Asian Games
+MultiHopQA,2025,reasoning,8,"Tom Wilson, an American film actor, was born in Helena, Montana, in what county?",Lewis and Clark County
+MultiHopQA,2025,reasoning,9,Does Dean Silvers or Anja Salomonowitz have more titles in the entertainment industry?,Dean Silvers
+MultiHopQA,2025,reasoning,10,"Which company whose motto is ""science for a better life"" owns a brand of genes that provides an herbicide resistance system?",Bayer
+MultiHopQA,2025,reasoning,11,"What star of ""The Thing with Two Heads"" also played football?",Rosey Grier
+MultiHopQA,2025,reasoning,12,"Simone Kirby is an Irish actress, her credits include as Tracey Moynihan in which Irish dramatic television series broadcast, on RTÉ Television, the show aired between 2010 and 2014?",Love/Hate
+MultiHopQA,2025,reasoning,13,"Arnaud Clément and Sloane Stephens, have which occupation?",tennis player
+MultiHopQA,2025,reasoning,14,Zach Galifianakis starred in which 2010 comedy film directed by Todd Phillips?,Due Date
+MultiHopQA,2025,reasoning,15,Which one of the eight most ancient Christian Hymns requires the first letter to be capitalized?,The Magnificat
+MultiHopQA,2025,reasoning,16,What was the capital of the Kingdom to which George Khevenhüller build a city-fortress?,Zagreb
+MultiHopQA,2025,reasoning,17,"Who beat the defending champion in 2002 and She became the world No. 1 for the first time on July 8, 2002?",Serena Jameka Williams
+MultiHopQA,2025,reasoning,18,"Who wrote the Beatles' song that was covered during Dokken's performance for their ""unplugged"" album?",John Lennon
+MultiHopQA,2025,reasoning,19,"What is the name of the body consisting of 42 members, including Republican member Robin L Titus?",the Nevada Assembly
