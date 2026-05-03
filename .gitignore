@@ -1,0 +1,47 @@
+# .gitignore
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+.env/
+.venv/
+
+# Model artifacts
+
+*.joblib
+*.pkl
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Large raw outputs 
+
+# data/raw/raw_runs.csv
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# OS metadata
+
+desktop.ini
