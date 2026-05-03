@@ -1,0 +1,62 @@
+run_id,timestamp,device_name,model_name,dataset_name,dataset_year,task_type,sample_id,prompt_style,prompt_template_version,input_text,reference_output,input_tokens,output_text,output_tokens,latency_sec,total_runtime_sec,energy_joules,avg_power_watts,status,error_message
+5d1a1bb9aa28,1775737929.426154,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,0,concise,v1,Volkswagen creating first innovation hub in North America,Volkswagen officials say they are partnering with the University of Tennessee and the Oak Ridge National Laboratory to create the company's first innovation hub for developing new technology in North America.,29,"Company: Volkswagen
+
+Date: 12/12/2019
+
+Introduction:
+Volkswagen has announced the creation of its first innovation hub in North America, located in Austin, Texas. The hub will focus on developing new technologies and services for the automotive industry.
+
+Body:
+The innovation hub will be led by Volkswagen's Chief Technology Officer, Dr. Martin Winterkorn, and will be responsible for developing new technologies and services for the company. The hub will be located in Austin, Texas, and will be home to a team of over",128,147.74617385864258,147.7582142353058,1288.3880601426358,8.719569783720251,success,
+3a487d10fecc,1775747135.75897,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,0,structured,v1,Volkswagen creating first innovation hub in North America,Volkswagen officials say they are partnering with the University of Tennessee and the Oak Ridge National Laboratory to create the company's first innovation hub for developing new technology in North America.,35,"Introduction:
+Volkswagen has announced the creation of its first innovation hub in North America, located in Detroit. The hub will focus on developing new technologies and services for the automotive industry.
+
+Body:
+1. Introduction:
+Volkswagen has announced the creation of its first innovation hub in North America, located in Detroit. The hub will focus on developing new technologies and services for the automotive industry.
+
+2. Key Point:
+Volkswagen has created its first innovation hub in North America, located in Detroit. The hub will focus on developing new technologies and",128,105.8151354789734,105.82143354415894,924.702571287036,8.738329658907526,success,
+13c02197a3b7,1775747241.5823305,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,0,verbose,v1,Volkswagen creating first innovation hub in North America,Volkswagen officials say they are partnering with the University of Tennessee and the Oak Ridge National Laboratory to create the company's first innovation hub for developing new technology in North America.,28,"Volkswagen has announced the creation of its first innovation hub in North America, located in the city of Ann Arbor, Michigan. The hub will focus on developing new technologies and services for the automotive industry, with a particular emphasis on electric and autonomous vehicles.
+
+The announcement comes as Volkswagen continues to invest heavily in electric and autonomous vehicle technology, with the company recently announcing plans to invest $25 billion in the sector over the next five years. The new innovation hub will be led by Volkswagen's North American CEO, Michael Horn, and will be located in",128,116.03704166412354,116.0406937599182,1022.5817334431414,8.812268354399936,success,
+b74acce8e0de,1775747357.625249,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,0,cot,v1,Volkswagen creating first innovation hub in North America,Volkswagen officials say they are partnering with the University of Tennessee and the Oak Ridge National Laboratory to create the company's first innovation hub for developing new technology in North America.,31,"Introduction:
+Volkswagen has announced the creation of its first innovation hub in North America, located in San Francisco. The hub will focus on developing new technologies and services for the automotive industry. The announcement comes as Volkswagen continues to invest heavily in electric and autonomous vehicles.
+
+Body:
+The innovation hub will be located in the heart of Silicon Valley, and will be headed by Dr. Thomas Schmall, who is currently the head of Volkswagen's research and development division. The hub will be responsible for developing new technologies and services for the automotive industry",128,110.86881732940674,110.87347459793092,981.4599920315744,8.85207210823616,success,
+1d4009dc0579,1775747468.5230377,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,1,concise,v1,"Amid Sex Abuse Scandals, Vatican Upholds Confession Secrecy","Amid pedophile clergy scandals, the Vatican is declaring “unacceptable” any efforts by politicians or lawmakers to make priests violate their obligation to keep secret what penitents tell them in confession.",38,"The Vatican has upheld its longstanding policy of keeping confession secrecy, despite mounting evidence of sexual abuse by clergy members.
+
+The Vatican's policy of keeping confession secrecy has been in place since the 1960s, when Pope John XXIII issued a document calling for the secrecy of confession. The policy has been upheld by subsequent popes, including Benedict XVI, who issued a statement in 2010 affirming the secrecy of confession.
+
+The Vatican's secrecy policy has been",128,100.45975685119627,100.46777200698853,883.8365314106935,8.797214407712893,success,
+377ad86692bb,1775747568.992486,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,1,structured,v1,"Amid Sex Abuse Scandals, Vatican Upholds Confession Secrecy","Amid pedophile clergy scandals, the Vatican is declaring “unacceptable” any efforts by politicians or lawmakers to make priests violate their obligation to keep secret what penitents tell them in confession.",44,"Introduction:
+The Catholic Church has been rocked by a series of sexual abuse scandals, with many priests and bishops accused of molesting children. The Vatican has been criticized for its handling of these cases, with some calling for greater transparency and accountability.
+
+Body:
+The Vatican has upheld its long-standing policy of secrecy surrounding confession, despite mounting pressure from victims and human rights groups. The Church has long maintained that confession is a private matter between a priest and a sinner, and that it should not be discussed",128,100.21753454208374,100.22084403038023,883.4798764578109,8.81533063311659,success,
+7ea291668987,1775747669.214925,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,1,verbose,v1,"Amid Sex Abuse Scandals, Vatican Upholds Confession Secrecy","Amid pedophile clergy scandals, the Vatican is declaring “unacceptable” any efforts by politicians or lawmakers to make priests violate their obligation to keep secret what penitents tell them in confession.",37,"The Vatican has upheld its longstanding policy of keeping the secrecy of confession, even as the Catholic Church faces mounting sexual abuse scandals around the world.
+
+The Vatican's policy of keeping the secrecy of confession has been in place since the 19th century, when the Church was under pressure to protect its priests from accusations of sexual abuse. The policy has been criticized by some as a cover-up, but it has also been defended by the Church as a safeguard against the spread of scandal.
+
+The V",128,100.41349148750304,100.41692113876344,884.5780369412903,8.80905356298383,success,
+5021601fa681,1775747769.6333468,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,1,cot,v1,"Amid Sex Abuse Scandals, Vatican Upholds Confession Secrecy","Amid pedophile clergy scandals, the Vatican is declaring “unacceptable” any efforts by politicians or lawmakers to make priests violate their obligation to keep secret what penitents tell them in confession.",40,"Introduction:
+The Vatican has upheld the secrecy of confession, which has been a cornerstone of Catholic doctrine for centuries. The secrecy has been upheld despite mounting evidence of sexual abuse by priests and other church officials. The secrecy has been upheld despite the Vatican's own internal investigations into the abuse scandals.
+
+Body:
+The secrecy of confession has been a cornerstone of Catholic doctrine for centuries. The Vatican has upheld this secrecy, despite mounting evidence of sexual abuse by priests and",128,100.82169365882874,100.8248975276947,886.446844269276,8.791943914704062,success,
+63d76ecfd581,1775747870.4603126,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,2,concise,v1,Four UN troops killed in central Mali mine blast,Four UN peacekeepers were killed and four were wounded on Wednesday when a mine exploded under their vehicle in central Mali in a deliberate attack.,30,"Headline: Four UN troops killed in central Mali mine blast
+
+Subheading: UN peacekeeping mission in Mali has lost four troops in a mine blast in the central town of Timbuktu, the mission said in a statement.
+
+Body:
+The UN peacekeeping mission in Mali has lost four troops in a mine blast in the central town of Timbuktu, the mission said in a statement.
+
+The UN peacekeeping mission in Mali has lost four troops in a mine blast in the central town of Timbuktu, the mission said",128,99.58393335342409,99.5872917175293,878.7992939001314,8.824412018280096,success,
+2823f4dcf2e0,1775747970.0494626,jetson_orin_nano,TinyLlama/TinyLlama-1.1B-Chat-v1.0,CCSum,2024,summarization,2,structured,v1,Four UN troops killed in central Mali mine blast,Four UN peacekeepers were killed and four were wounded on Wednesday when a mine exploded under their vehicle in central Mali in a deliberate attack.,36,"Headline: Four UN troops killed in central Mali mine blast
+
+Subheading: UN peacekeeping mission in Mali says four of its troops were killed in a mine explosion in the central town of Timbuktu.
+
+Paragraph 1: The UN peacekeeping mission in Mali said on Wednesday that four of its troops were killed in a mine explosion in the central town of Timbuktu.
+
+Paragraph 2: The mission said in a statement that the incident occurred on Tuesday evening when a mine was detonated in the town.",128,99.83054065704346,99.83373522758484,879.6478557381638,8.811128359896427,success,

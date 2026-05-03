@@ -1,0 +1,7 @@
+stage,rows
+Raw collected,240
+Failed runs removed,0
+Missing metric rows removed,0
+Invalid metric rows removed,0
+Duplicate rows removed,0
+Final cleaned rows,240
