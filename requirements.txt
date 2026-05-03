@@ -1,0 +1,14 @@
+# requirements.txt
+
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+datasets
+transformers
+torch
+joblib
+xgboost
+jupyterlab
+notebook
