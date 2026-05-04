@@ -129,8 +129,8 @@ Practicum-2/
 │
 ├── presentation/
 │   ├── .gitkeep
-│   ├── Practicum2_Final_Presentation.pdf
-│   └── Practicum2_Final_Presentation.pptx
+│   ├── P2_PPT.pdf
+│   └── P2_PPT.pptx
 │
 ├── notebooks/
 │   ├── .gitkeep
@@ -139,7 +139,7 @@ Practicum-2/
 │
 ├── figures/
 │   ├── .gitkeep
-│   └── pipeline_overview.png
+│   └── figure1_pipeline.png
 │
 ├── data/
 │   ├── audit/
@@ -172,13 +172,12 @@ Practicum-2/
 │   │
 │   └── plots/
 │       ├── .gitkeep
-│       ├── prompt_style_energy_latency.png
-│       ├── output_tokens_vs_latency_dark.png
-│       ├── output_tokens_vs_energy_dark.png
-│       ├── avg_output_tokens_by_prompt_style_dark.png
+│       ├── Impact_of_Prompt_Style_on_Energy_&_Latency.png
 │       ├── energy_regression_coefficients_dark.png
 │       ├── linear_regression_coefficients_dark.png
-│       └── model_comparison_r2_dark.png
+│       ├── model_comparison_r2_dark.png
+│       ├── output_tokens_vs_energy_dark_energy_consumption.png
+│       ├── output_tokens_vs_latency_dark.png
 │
 └── src/
     ├── .gitkeep
