@@ -118,83 +118,81 @@ Prompt Style → Output Tokens → Latency → Energy Consumption
 ```text
 Practicum-2/
 │
-├── [README.md](README.md)
-├── [LICENSE](LICENSE)
-├── [requirements.txt](requirements.txt)
-├── [.gitignore](.gitignore)
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
 │
 ├── report/
 │   ├── .gitkeep
-│   └── [UED_Practicum_2_Report.pdf](report/UED_Practicum_2_Report.pdf)
+│   └── UED_Practicum_2_Report.pdf
 │
 ├── presentation/
 │   ├── .gitkeep
-│   ├── [P2_PPT.pdf](presentation/P2_PPT.pdf)
-│   └── [P2_PPT.pptx](presentation/P2_PPT.pptx)
+│   ├── Practicum2_Final_Presentation.pdf
+│   └── Practicum2_Final_Presentation.pptx
 │
 ├── notebooks/
 │   ├── .gitkeep
-│   ├── [Correlation_analysis.ipynb](notebooks/Correlation_analysis.ipynb)
-│   └── [Visualizations.ipynb](notebooks/Visualizations.ipynb)
+│   ├── Correlation_analysis.ipynb
+│   └── Visualizations.ipynb
 │
 ├── figures/
 │   ├── .gitkeep
-│   └── [figure1_pipeline.png](figures/figure1_pipeline.png)
+│   └── pipeline_overview.png
 │
 ├── data/
 │   ├── audit/
 │   │   ├── .gitkeep
-│   │   ├── [raw_preview.csv](data/audit/raw_preview.csv)
-│   │   ├── [clean_preview.csv](data/audit/clean_preview.csv)
-│   │   └── [cleaning_summary.csv](data/audit/cleaning_summary.csv)
+│   │   ├── raw_preview.csv
+│   │   ├── clean_preview.csv
+│   │   └── cleaning_summary.csv
 │   │
 │   ├── raw/
 │   │   ├── .gitkeep
-│   │   └── [raw_runs.csv](data/raw/raw_runs.csv)
+│   │   └── raw_runs.csv
 │   │
 │   ├── processed/
 │   │   ├── .gitkeep
-│   │   └── [clean_runs.csv](data/processed/clean_runs.csv)
+│   │   └── clean_runs.csv
 │   │
 │   └── samples/
 │       ├── .gitkeep
-│       ├── [REPLIQA_sampled.csv](data/samples/REPLIQA_sampled.csv)
-│       ├── [MultiHopQA_sampled.csv](data/samples/MultiHopQA_sampled.csv)
-│       └── [CCSum_sampled.csv](data/samples/CCSum_sampled.csv)
+│       ├── REPLIQA_sampled.csv
+│       ├── MultiHopQA_sampled.csv
+│       └── CCSum_sampled.csv
 │
 ├── outputs/
 │   ├── models/
 │   │   ├── .gitkeep
-│   │   ├── [pre_run_best_model.joblib](outputs/models/pre_run_best_model.joblib)
-│   │   ├── [pre_run_results.csv](outputs/models/pre_run_results.csv)
-│   │   ├── [post_run_best_model.joblib](outputs/models/post_run_best_model.joblib)
-│   │   └── [post_run_results.csv](outputs/models/post_run_results.csv)
+│   │   ├── pre_run_best_model.joblib
+│   │   ├── pre_run_results.csv
+│   │   ├── post_run_best_model.joblib
+│   │   └── post_run_results.csv
 │   │
 │   └── plots/
 │       ├── .gitkeep
-│       ├── [Impact_of_Prompt_Style_on_Energy_&_Latency.png](outputs/plots/Impact_of_Prompt_Style_on_Energy_%26_Latency.png)
-│       ├── [energy_regression_coefficients_dark.png](outputs/plots/energy_regression_coefficients_dark.png)
-│       ├── [linear_regression_coefficients_dark.png](outputs/plots/linear_regression_coefficients_dark.png)
-│       ├── [model_comparison_r2_dark.png](outputs/plots/model_comparison_r2_dark.png)
-│       ├── [output_tokens_vs_energy_dark_energy_consumption.png](outputs/plots/output_tokens_vs_energy_dark_energy_consumption.png)
-│       ├── [output_tokens_vs_latency_dark.png](outputs/plots/output_tokens_vs_latency_dark.png)
+│       ├── prompt_style_energy_latency.png
+│       ├── output_tokens_vs_latency_dark.png
+│       ├── output_tokens_vs_energy_dark.png
+│       ├── avg_output_tokens_by_prompt_style_dark.png
+│       ├── energy_regression_coefficients_dark.png
+│       ├── linear_regression_coefficients_dark.png
+│       └── model_comparison_r2_dark.png
 │
 └── src/
     ├── .gitkeep
-    ├── [config.py](src/config.py)
-    ├── [utils.py](src/utils.py)
-    ├── [prompt_templates.py](src/prompt_templates.py)
-    ├── [model_backend.py](src/model_backend.py)
-    ├── [energy_logger.py](src/energy_logger.py)
-    ├── [dataset_adapters.py](src/dataset_adapters.py)
-    ├── [run_experiments.py](src/run_experiments.py)
-    ├── [clean_data.py](src/clean_data.py)
-    ├── [data_audit.py](src/data_audit.py)
-    ├── [train_models.py](src/train_models.py)
-    └── [run_pipeline.py](src/run_pipeline.py)
-
-```
-
+    ├── config.py
+    ├── utils.py
+    ├── prompt_templates.py
+    ├── model_backend.py
+    ├── energy_logger.py
+    ├── dataset_adapters.py
+    ├── run_experiments.py
+    ├── clean_data.py
+    ├── data_audit.py
+    ├── train_models.py
+    └── run_pipeline.py
 
 ## Installation
 
@@ -237,9 +235,9 @@ If you find this project useful and would like to reference this project, please
 
 
 ## Regis Portfolio
-```text
+
 https://regisportfolio.com/profiles/udammu/udammu.html
-```
+
 ---
 
 ## Author
